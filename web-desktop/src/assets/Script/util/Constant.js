@@ -1,0 +1,1 @@
+window.baseURL="",window.apiBaseUrl="",window.platform="web3";
